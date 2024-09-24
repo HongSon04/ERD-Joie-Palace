@@ -2721,8 +2721,8 @@
             <Array as="points">
               <mxPoint x="200" y="130" />
               <mxPoint x="240" y="130" />
-              <mxPoint x="240" y="660" />
-              <mxPoint x="1710" y="660" />
+              <mxPoint x="240" y="620" />
+              <mxPoint x="1710" y="620" />
               <mxPoint x="1710" y="795" />
               <mxPoint x="1720" y="795" />
             </Array>
@@ -2747,8 +2747,8 @@
             <mxPoint x="1010" y="635" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1200" y="765" />
-              <mxPoint x="1200" y="660" />
-              <mxPoint x="1690" y="660" />
+              <mxPoint x="1200" y="680" />
+              <mxPoint x="1690" y="680" />
               <mxPoint x="1690" y="855" />
               <mxPoint x="1720" y="855" />
             </Array>
@@ -2774,8 +2774,8 @@
             <mxPoint x="530" y="605" as="targetPoint" />
             <Array as="points">
               <mxPoint x="960" y="765" />
-              <mxPoint x="960" y="660" />
-              <mxPoint x="1670" y="660" />
+              <mxPoint x="960" y="670" />
+              <mxPoint x="1670" y="670" />
               <mxPoint x="1670" y="915" />
               <mxPoint x="1720" y="915" />
             </Array>
@@ -3548,8 +3548,8 @@
             <mxPoint x="1730" y="959" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1440" y="764" />
-              <mxPoint x="1440" y="660" />
-              <mxPoint x="1660" y="660" />
+              <mxPoint x="1440" y="630" />
+              <mxPoint x="1660" y="630" />
               <mxPoint x="1660" y="989" />
             </Array>
           </mxGeometry>
