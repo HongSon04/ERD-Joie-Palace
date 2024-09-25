@@ -7329,7 +7329,7 @@
           <mxGeometry x="330" y="990" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wSY2MSPXeLrmzc2t_ETo-26" value="Sửa, tìm kiếm, hủy tiệc" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="UahQ1W5Ei-j5OluPLZ45-1">
-          <mxGeometry x="520" y="1109" width="120" height="60" as="geometry" />
+          <mxGeometry x="534" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wSY2MSPXeLrmzc2t_ETo-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="UahQ1W5Ei-j5OluPLZ45-1" source="wSY2MSPXeLrmzc2t_ETo-22" target="wSY2MSPXeLrmzc2t_ETo-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -7365,7 +7365,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nkQJ5q4BBxg5pFTEe7xY-0" value="JoiePalace" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="UahQ1W5Ei-j5OluPLZ45-1">
-          <mxGeometry x="100" y="20" width="1180" height="1230" as="geometry" />
+          <mxGeometry x="120" y="20" width="1160" height="1130" as="geometry" />
         </mxCell>
         <mxCell id="nkQJ5q4BBxg5pFTEe7xY-1" value="" style="endArrow=openThin;dashed=1;html=1;rounded=0;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="UahQ1W5Ei-j5OluPLZ45-1" source="wSY2MSPXeLrmzc2t_ETo-17" target="wSY2MSPXeLrmzc2t_ETo-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -7411,7 +7411,7 @@
             <mxPoint x="544" y="725" as="sourcePoint" />
             <mxPoint x="620" y="670" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="720" y="840" />
+              <mxPoint x="700" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -7427,34 +7427,34 @@
           <mxGeometry x="1000" y="315" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="v-6Z2uVmjhXZJdwoUvz9-3" value="Quản lý món ăn" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UahQ1W5Ei-j5OluPLZ45-1">
-          <mxGeometry x="1000" y="435" width="90" height="70" as="geometry" />
+          <mxGeometry x="1000" y="410" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="v-6Z2uVmjhXZJdwoUvz9-4" value="Quản lý Menu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UahQ1W5Ei-j5OluPLZ45-1">
-          <mxGeometry x="1000" y="555" width="90" height="70" as="geometry" />
+          <mxGeometry x="1000" y="500" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="v-6Z2uVmjhXZJdwoUvz9-8" value="Quản lý bài viết" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UahQ1W5Ei-j5OluPLZ45-1">
-          <mxGeometry x="1000" y="875" width="90" height="70" as="geometry" />
+          <mxGeometry x="1000" y="790" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="v-6Z2uVmjhXZJdwoUvz9-9" value="Quản lý phản hồi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UahQ1W5Ei-j5OluPLZ45-1">
-          <mxGeometry x="1000" y="775" width="90" height="70" as="geometry" />
+          <mxGeometry x="1000" y="710" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="v-6Z2uVmjhXZJdwoUvz9-12" value="Quản lý thanh toán" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UahQ1W5Ei-j5OluPLZ45-1">
-          <mxGeometry x="1000" y="1065" width="90" height="70" as="geometry" />
+          <mxGeometry x="1000" y="960" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="v-6Z2uVmjhXZJdwoUvz9-13" value="Thống kê" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UahQ1W5Ei-j5OluPLZ45-1">
-          <mxGeometry x="1000" y="965" width="90" height="70" as="geometry" />
+          <mxGeometry x="1000" y="880" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="v-6Z2uVmjhXZJdwoUvz9-14" value="Quản lý nhân viên" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UahQ1W5Ei-j5OluPLZ45-1">
           <mxGeometry x="1000" y="115" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="v-6Z2uVmjhXZJdwoUvz9-15" value="Quản lý Banner" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UahQ1W5Ei-j5OluPLZ45-1">
-          <mxGeometry x="1000" y="1169" width="90" height="70" as="geometry" />
+          <mxGeometry x="1000" y="1050" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="v-6Z2uVmjhXZJdwoUvz9-16" value="Quản lý loại tiệc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UahQ1W5Ei-j5OluPLZ45-1">
           <mxGeometry x="1000" y="215" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="v-6Z2uVmjhXZJdwoUvz9-17" value="Quản lý trang trí" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UahQ1W5Ei-j5OluPLZ45-1">
-          <mxGeometry x="1000" y="675" width="90" height="70" as="geometry" />
+          <mxGeometry x="1000" y="600" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="v-6Z2uVmjhXZJdwoUvz9-18" value="Quản lý địa điểm" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UahQ1W5Ei-j5OluPLZ45-1">
           <mxGeometry x="1000" y="35" width="90" height="70" as="geometry" />
@@ -7577,7 +7577,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v-6Z2uVmjhXZJdwoUvz9-58" value="Duyệt, xóa phản hồi" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="UahQ1W5Ei-j5OluPLZ45-1">
-          <mxGeometry x="680" y="885" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v-6Z2uVmjhXZJdwoUvz9-59" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=120;exitDy=42.5;exitPerimeter=0;" edge="1" parent="UahQ1W5Ei-j5OluPLZ45-1" source="v-6Z2uVmjhXZJdwoUvz9-58" target="v-6Z2uVmjhXZJdwoUvz9-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -7592,7 +7592,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v-6Z2uVmjhXZJdwoUvz9-61" value="Thống kế doanh thu theo ngày, tuần, tháng, năm" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="UahQ1W5Ei-j5OluPLZ45-1">
-          <mxGeometry x="680" y="1000" width="120" height="90" as="geometry" />
+          <mxGeometry x="700" y="930" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="v-6Z2uVmjhXZJdwoUvz9-62" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=-0.012;entryY=0.403;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=120;exitDy=57.5;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="UahQ1W5Ei-j5OluPLZ45-1" source="v-6Z2uVmjhXZJdwoUvz9-61" target="v-6Z2uVmjhXZJdwoUvz9-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -7601,7 +7601,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v-6Z2uVmjhXZJdwoUvz9-63" value="Thêm, sửa xóa" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="UahQ1W5Ei-j5OluPLZ45-1">
-          <mxGeometry x="680" y="1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="1049" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v-6Z2uVmjhXZJdwoUvz9-64" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=120;exitDy=42.5;exitPerimeter=0;" edge="1" parent="UahQ1W5Ei-j5OluPLZ45-1" source="v-6Z2uVmjhXZJdwoUvz9-63" target="v-6Z2uVmjhXZJdwoUvz9-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
