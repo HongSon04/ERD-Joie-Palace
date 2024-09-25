@@ -6211,12 +6211,6 @@
             <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qvXVLmkYds5djWnsoAz3-582" value="" style="endArrow=ERoneToMany;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" parent="qvXVLmkYds5djWnsoAz3-1" source="qvXVLmkYds5djWnsoAz3-57" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="270" as="sourcePoint" />
-            <mxPoint x="760" y="155" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qvXVLmkYds5djWnsoAz3-583" value="spaces" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=1;" parent="qvXVLmkYds5djWnsoAz3-1" vertex="1">
           <mxGeometry x="1280" y="80" width="160" height="330" as="geometry" />
         </mxCell>
