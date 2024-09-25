@@ -3727,7 +3727,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bản sao của ERD-L2" id="HbmbVrLjisirDwyR5MUP">
-    <mxGraphModel dx="1687" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qvXVLmkYds5djWnsoAz3-0" />
         <mxCell id="qvXVLmkYds5djWnsoAz3-1" parent="qvXVLmkYds5djWnsoAz3-0" />
@@ -5636,7 +5636,7 @@
             <mxPoint x="520" y="294" as="sourcePoint" />
             <mxPoint x="600" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="750" y="125" />
+              <mxPoint x="750" y="55" />
               <mxPoint x="750" y="50" />
               <mxPoint x="1480" y="50" />
               <mxPoint x="1480" y="155" />
