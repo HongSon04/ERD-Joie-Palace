@@ -7139,7 +7139,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bản sao của UseCase" id="zNJW9MtAMhg95kcKtW9P">
-    <mxGraphModel dx="1687" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="UahQ1W5Ei-j5OluPLZ45-0" />
         <mxCell id="UahQ1W5Ei-j5OluPLZ45-1" parent="UahQ1W5Ei-j5OluPLZ45-0" />
@@ -7365,7 +7365,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nkQJ5q4BBxg5pFTEe7xY-0" value="JoiePalace" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="UahQ1W5Ei-j5OluPLZ45-1">
-          <mxGeometry x="100" y="20" width="1400" height="1230" as="geometry" />
+          <mxGeometry x="100" y="20" width="1180" height="1230" as="geometry" />
         </mxCell>
         <mxCell id="nkQJ5q4BBxg5pFTEe7xY-1" value="" style="endArrow=openThin;dashed=1;html=1;rounded=0;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="UahQ1W5Ei-j5OluPLZ45-1" source="wSY2MSPXeLrmzc2t_ETo-17" target="wSY2MSPXeLrmzc2t_ETo-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
