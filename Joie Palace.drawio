@@ -6588,6 +6588,12 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1660" y="960" as="sourcePoint" />
             <mxPoint x="1760" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1460" y="805" />
+              <mxPoint x="1460" y="720" />
+              <mxPoint x="1740" y="720" />
+              <mxPoint x="1740" y="1030" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Cp4Lw2RJO06C2Y3p5Pjy-0" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="qvXVLmkYds5djWnsoAz3-1" source="qvXVLmkYds5djWnsoAz3-196" target="IJGYZyL2Tm5gSwxijTa2-31" edge="1">
