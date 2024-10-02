@@ -697,7 +697,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="ERD-L2">
-    <mxGraphModel dx="1341" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -3549,8 +3549,8 @@
             <mxPoint x="1730" y="959" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1440" y="764" />
-              <mxPoint x="1440" y="630" />
-              <mxPoint x="1660" y="630" />
+              <mxPoint x="1440" y="690" />
+              <mxPoint x="1660" y="690" />
               <mxPoint x="1660" y="989" />
             </Array>
           </mxGeometry>
