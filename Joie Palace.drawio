@@ -3727,7 +3727,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bản sao của ERD-L2" id="HbmbVrLjisirDwyR5MUP">
-    <mxGraphModel dx="1674" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1762" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qvXVLmkYds5djWnsoAz3-0" />
         <mxCell id="qvXVLmkYds5djWnsoAz3-1" parent="qvXVLmkYds5djWnsoAz3-0" />
@@ -5459,7 +5459,7 @@
             <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qvXVLmkYds5djWnsoAz3-389" value="payments" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=1;" parent="qvXVLmkYds5djWnsoAz3-1" vertex="1">
+        <mxCell id="qvXVLmkYds5djWnsoAz3-389" value="payment_method" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=1;" parent="qvXVLmkYds5djWnsoAz3-1" vertex="1">
           <mxGeometry x="1760" y="80" width="160" height="390" as="geometry" />
         </mxCell>
         <mxCell id="qvXVLmkYds5djWnsoAz3-390" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="qvXVLmkYds5djWnsoAz3-389" vertex="1">
