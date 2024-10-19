@@ -4478,7 +4478,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bản sao của ERD-L2" id="ooVxOMjlpI2P3KP55TEo">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="A-anDbn25mB5qoZcjjHi-0" />
         <mxCell id="A-anDbn25mB5qoZcjjHi-1" parent="A-anDbn25mB5qoZcjjHi-0" />
@@ -7580,7 +7580,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EZTwGlvIsu_03GSBAUqI-8" value="package" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=1;" vertex="1" parent="A-anDbn25mB5qoZcjjHi-1">
-          <mxGeometry x="2280" y="1340" width="160" height="450" as="geometry" />
+          <mxGeometry x="1740" y="1520" width="160" height="420" as="geometry" />
         </mxCell>
         <mxCell id="EZTwGlvIsu_03GSBAUqI-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="EZTwGlvIsu_03GSBAUqI-8">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -7747,19 +7747,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EZTwGlvIsu_03GSBAUqI-50" value="extra_services" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="EZTwGlvIsu_03GSBAUqI-48">
-          <mxGeometry x="30" width="130" height="30" as="geometry">
-            <mxRectangle width="130" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EZTwGlvIsu_03GSBAUqI-51" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="EZTwGlvIsu_03GSBAUqI-8">
-          <mxGeometry y="420" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EZTwGlvIsu_03GSBAUqI-52" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="EZTwGlvIsu_03GSBAUqI-51">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EZTwGlvIsu_03GSBAUqI-53" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;accessories(chairs, tables)&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="EZTwGlvIsu_03GSBAUqI-51">
           <mxGeometry x="30" width="130" height="30" as="geometry">
             <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
