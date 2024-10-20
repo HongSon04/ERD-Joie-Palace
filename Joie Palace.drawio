@@ -6092,7 +6092,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A-anDbn25mB5qoZcjjHi-425" value="payment_method" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=1;" parent="A-anDbn25mB5qoZcjjHi-1" vertex="1">
-          <mxGeometry x="1760" y="80" width="160" height="390" as="geometry">
+          <mxGeometry x="2070" y="290" width="160" height="390" as="geometry">
             <mxRectangle x="1760" y="80" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
