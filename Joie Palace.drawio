@@ -4449,7 +4449,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bản sao của ERD-L2" id="ooVxOMjlpI2P3KP55TEo">
-    <mxGraphModel dx="1062" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="A-anDbn25mB5qoZcjjHi-0" />
         <mxCell id="A-anDbn25mB5qoZcjjHi-1" parent="A-anDbn25mB5qoZcjjHi-0" />
@@ -7831,7 +7831,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u0kP5sCCDGxZ2zNSiX-C-19" value="_ProductPartyTypes" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=1;" vertex="1" parent="A-anDbn25mB5qoZcjjHi-1">
-          <mxGeometry x="700" y="1380" width="160" height="120" as="geometry" />
+          <mxGeometry x="720" y="1380" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="u0kP5sCCDGxZ2zNSiX-C-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="u0kP5sCCDGxZ2zNSiX-C-19">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
