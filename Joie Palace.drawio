@@ -4449,7 +4449,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bản sao của ERD-L2" id="ooVxOMjlpI2P3KP55TEo">
-    <mxGraphModel dx="1509" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="A-anDbn25mB5qoZcjjHi-0" />
         <mxCell id="A-anDbn25mB5qoZcjjHi-1" parent="A-anDbn25mB5qoZcjjHi-0" />
@@ -6963,8 +6963,8 @@
             <Array as="points">
               <mxPoint x="1460" y="805" />
               <mxPoint x="1460" y="730" />
-              <mxPoint x="1760" y="730" />
-              <mxPoint x="1760" y="970" />
+              <mxPoint x="1770" y="730" />
+              <mxPoint x="1770" y="940" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -7039,11 +7039,10 @@
             <mxPoint x="1170" y="775" as="sourcePoint" />
             <mxPoint x="1730" y="864" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1160" y="765" />
-              <mxPoint x="1160" y="690" />
-              <mxPoint x="1770" y="690" />
-              <mxPoint x="1770" y="870" />
-              <mxPoint x="1800" y="870" />
+              <mxPoint x="1130" y="765" />
+              <mxPoint x="1130" y="710" />
+              <mxPoint x="1790" y="710" />
+              <mxPoint x="1790" y="865" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -7122,10 +7121,11 @@
             <mxPoint x="1940" y="774" as="sourcePoint" />
             <mxPoint x="2050" y="835" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1480" y="125" />
               <mxPoint x="1960" y="125" />
               <mxPoint x="1960" y="574" />
               <mxPoint x="1750" y="574" />
-              <mxPoint x="1750" y="1010" />
+              <mxPoint x="1750" y="980" />
             </Array>
           </mxGeometry>
         </mxCell>
