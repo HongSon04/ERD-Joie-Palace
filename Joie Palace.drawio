@@ -13316,7 +13316,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ff7E7eH8OjGaChqFH8oG-112" value="&lt;div&gt;Quản lý&lt;/div&gt;nhân viên" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Ff7E7eH8OjGaChqFH8oG-1">
-          <mxGeometry x="1000" y="-50" width="90" height="70" as="geometry" />
+          <mxGeometry x="990" y="-60" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ff7E7eH8OjGaChqFH8oG-113" value="" style="endArrow=none;html=1;rounded=0;exitX=0.979;exitY=0.63;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="Ff7E7eH8OjGaChqFH8oG-1" source="Ff7E7eH8OjGaChqFH8oG-112" target="Ff7E7eH8OjGaChqFH8oG-103">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
