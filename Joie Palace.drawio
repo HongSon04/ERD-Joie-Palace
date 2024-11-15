@@ -10849,7 +10849,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ERD-L2.3 - BOOKING" id="xlgYhVXh-av-_kxx80nk">
-    <mxGraphModel dx="3292" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1936" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kMjK7FjNSvzzFATL9wmc-0" />
         <mxCell id="kMjK7FjNSvzzFATL9wmc-1" parent="kMjK7FjNSvzzFATL9wmc-0" />
@@ -12158,7 +12158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kMjK7FjNSvzzFATL9wmc-415" value="deposits" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=1;" vertex="1" parent="kMjK7FjNSvzzFATL9wmc-1">
-          <mxGeometry x="800" y="360" width="160" height="330" as="geometry">
+          <mxGeometry x="1081" y="890" width="160" height="330" as="geometry">
             <mxRectangle x="2280" y="1120" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -12417,10 +12417,10 @@
             <mxPoint x="1660" y="960" as="sourcePoint" />
             <mxPoint x="1760" y="860" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="764" />
-              <mxPoint x="520" y="420" />
-              <mxPoint x="780" y="420" />
-              <mxPoint x="780" y="540" />
+              <mxPoint x="490" y="764" />
+              <mxPoint x="490" y="710" />
+              <mxPoint x="790" y="710" />
+              <mxPoint x="790" y="899" />
             </Array>
           </mxGeometry>
         </mxCell>
