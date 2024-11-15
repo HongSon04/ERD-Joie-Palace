@@ -4854,7 +4854,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xohO9fTlycGALi7pKcTR-22" value="Đánh giá phản hồi" style="ellipse;whiteSpace=wrap;html=1;" parent="xohO9fTlycGALi7pKcTR-1" vertex="1">
-          <mxGeometry x="470" y="275" width="120" height="80" as="geometry" />
+          <mxGeometry x="480" y="275" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xohO9fTlycGALi7pKcTR-35" value="Đăng xuất" style="ellipse;whiteSpace=wrap;html=1;" parent="xohO9fTlycGALi7pKcTR-1" vertex="1">
           <mxGeometry x="480" y="390" width="120" height="80" as="geometry" />
@@ -5489,13 +5489,6 @@
         </mxCell>
         <mxCell id="roijcg9GZ6ptFTvx_EJL-4" value="Tạo gói dịch vụ" style="ellipse;whiteSpace=wrap;html=1;" parent="xohO9fTlycGALi7pKcTR-1" vertex="1">
           <mxGeometry x="220" y="965" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="roijcg9GZ6ptFTvx_EJL-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="xohO9fTlycGALi7pKcTR-1" source="xohO9fTlycGALi7pKcTR-2" target="roijcg9GZ6ptFTvx_EJL-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="630" as="sourcePoint" />
-            <mxPoint x="230" y="900" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="roijcg9GZ6ptFTvx_EJL-6" value="Thêm, chỉnh sửa gói dịch vụ" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" parent="xohO9fTlycGALi7pKcTR-1" vertex="1">
           <mxGeometry x="410" y="1001" width="120" height="60" as="geometry" />
