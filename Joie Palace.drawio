@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="8">
   <diagram id="7tDnZ7h9UHriVq4b7FdJ" name="ERD-L1">
-    <mxGraphModel dx="1509" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -759,9 +759,11 @@
             <mxPoint x="940" y="340" as="sourcePoint" />
             <mxPoint x="1500" y="1070" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="940" y="125" />
               <mxPoint x="1000" y="125" />
               <mxPoint x="1000" y="510" />
-              <mxPoint x="1520" y="510" />
+              <mxPoint x="1500" y="510" />
+              <mxPoint x="1500" y="435" />
             </Array>
           </mxGeometry>
         </mxCell>
