@@ -4862,7 +4862,7 @@
           <mxGeometry x="610" y="495" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xohO9fTlycGALi7pKcTR-38" value="Cập nhật thông tin&lt;div&gt;tài khoản&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="xohO9fTlycGALi7pKcTR-1" vertex="1">
-          <mxGeometry x="470" y="600" width="120" height="80" as="geometry" />
+          <mxGeometry x="480" y="600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xohO9fTlycGALi7pKcTR-39" value="Đổi mật khẩu" style="ellipse;whiteSpace=wrap;html=1;" parent="xohO9fTlycGALi7pKcTR-1" vertex="1">
           <mxGeometry x="480" y="981" width="120" height="80" as="geometry" />
