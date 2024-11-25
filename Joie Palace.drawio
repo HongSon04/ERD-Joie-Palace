@@ -5466,7 +5466,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="egRasFr7TJMCGB_9pu_A-0" value="" style="fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;rounded=1;" vertex="1" parent="xohO9fTlycGALi7pKcTR-1">
-          <mxGeometry x="480" y="215" width="160" height="138" as="geometry" />
+          <mxGeometry x="480" y="200" width="160" height="138" as="geometry" />
         </mxCell>
         <mxCell id="egRasFr7TJMCGB_9pu_A-1" value="Đặt tiệc" style="html=1;align=center;spacingLeft=4;verticalAlign=middle;strokeColor=none;fillColor=none;fontStyle=1;whiteSpace=wrap;rounded=1;imageAlign=center;" vertex="1" parent="egRasFr7TJMCGB_9pu_A-0">
           <mxGeometry width="160" height="30" as="geometry" />
