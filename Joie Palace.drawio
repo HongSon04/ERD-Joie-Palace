@@ -5344,22 +5344,29 @@
           <mxGeometry y="113" width="160" height="25" as="geometry" />
         </mxCell>
         <mxCell id="5X-tShPLeizMyd0toXMe-0" value="Cập nhật thông tin tài khoản" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="xohO9fTlycGALi7pKcTR-1">
-          <mxGeometry x="250" y="1175" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5X-tShPLeizMyd0toXMe-1" value="Xem lịch sử đánh giá" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="xohO9fTlycGALi7pKcTR-1">
-          <mxGeometry x="260" y="1185" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5X-tShPLeizMyd0toXMe-2" value="Tạo thực đơn riêng" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="xohO9fTlycGALi7pKcTR-1">
-          <mxGeometry x="270" y="1195" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="915" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5X-tShPLeizMyd0toXMe-3" value="Đổi mật khẩu" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="xohO9fTlycGALi7pKcTR-1">
-          <mxGeometry x="280" y="1205" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5X-tShPLeizMyd0toXMe-4" value="Tạo gói dịch vụ" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="xohO9fTlycGALi7pKcTR-1">
-          <mxGeometry x="290" y="1215" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5X-tShPLeizMyd0toXMe-5" value="Lịch sử đặt tiệc" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="xohO9fTlycGALi7pKcTR-1">
-          <mxGeometry x="300" y="1225" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1121" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5X-tShPLeizMyd0toXMe-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="xohO9fTlycGALi7pKcTR-1" source="xohO9fTlycGALi7pKcTR-2" target="PQKqw1TeWdGPgAwjmK8C-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="630" as="sourcePoint" />
+            <mxPoint x="230" y="885" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
