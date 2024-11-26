@@ -4811,7 +4811,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="UseCase" id="zubW3dlMvUs_9pwBmFcj">
-    <mxGraphModel dx="1220" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1734" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xohO9fTlycGALi7pKcTR-0" />
         <mxCell id="xohO9fTlycGALi7pKcTR-1" parent="xohO9fTlycGALi7pKcTR-0" />
@@ -5490,6 +5490,24 @@
         </mxCell>
         <mxCell id="egRasFr7TJMCGB_9pu_A-10" value="&lt;div style=&quot;text-align: left;&quot;&gt;Đánh giá phản hồi&lt;/div&gt;" style="html=1;align=center;spacingLeft=4;verticalAlign=top;strokeColor=none;fillColor=none;whiteSpace=wrap;" parent="egRasFr7TJMCGB_9pu_A-0" vertex="1">
           <mxGeometry y="113" width="160" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="5X-tShPLeizMyd0toXMe-0" value="Cập nhật thông tin tài khoản" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="xohO9fTlycGALi7pKcTR-1">
+          <mxGeometry x="250" y="1175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5X-tShPLeizMyd0toXMe-1" value="Xem lịch sử đánh giá" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="xohO9fTlycGALi7pKcTR-1">
+          <mxGeometry x="260" y="1185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5X-tShPLeizMyd0toXMe-2" value="Tạo thực đơn riêng" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="xohO9fTlycGALi7pKcTR-1">
+          <mxGeometry x="270" y="1195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5X-tShPLeizMyd0toXMe-3" value="Đổi mật khẩu" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="xohO9fTlycGALi7pKcTR-1">
+          <mxGeometry x="280" y="1205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5X-tShPLeizMyd0toXMe-4" value="Tạo gói dịch vụ" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="xohO9fTlycGALi7pKcTR-1">
+          <mxGeometry x="290" y="1215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5X-tShPLeizMyd0toXMe-5" value="Lịch sử đặt tiệc" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="xohO9fTlycGALi7pKcTR-1">
+          <mxGeometry x="300" y="1225" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
